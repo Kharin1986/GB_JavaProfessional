@@ -33,5 +33,7 @@ public class Task {
         appleBox2.addFromAnotherBox(appleBox);
         System.out.println(appleBox.getWeight());
         System.out.println(appleBox2.getWeight());
+
+        System.out.println(appleBox.compareTo(orangeBox));
     }
 }
