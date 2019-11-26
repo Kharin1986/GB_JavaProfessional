@@ -15,7 +15,7 @@ public class  Box <T extends Fruit> {
         this.fruits.addAll(Arrays.asList(fruits));
     }
 
-    public boolean compareTo (Box another){
+    public boolean compareTo (Box <?> another){ // <?> - любой тип попадающий под описание T extends Fruit
         return Math.abs(this.getWeight()- another.getWeight())<0.0001f;
     }
 

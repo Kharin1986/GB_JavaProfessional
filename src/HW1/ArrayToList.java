@@ -6,7 +6,7 @@ import java.util.List;
 
 //2. Написать метод, который преобразует массив в ArrayList;
 public class ArrayToList {
-    public static <T> ArrayList arrToArrayList(T []array){
+    public static <T> ArrayList<T> arrToArrayList(T []array){
 //        ArrayList <T> arrayList = new ArrayList<>();
 //        for (int i = 0; i <array.length; i++) {
 //            arrayList.add(array[i]);
