@@ -1,4 +1,4 @@
-package HW1.FruitsTask;
+package HW1_Generics.FruitsTask;
 
 public class Orange implements Fruit{
     @Override

@@ -1,8 +1,7 @@
-package HW1;
+package HW1_Generics;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 //2. Написать метод, который преобразует массив в ArrayList;
 public class ArrayToList {

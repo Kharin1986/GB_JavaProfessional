@@ -1,4 +1,4 @@
-package HW1.FruitsTask;
+package HW1_Generics.FruitsTask;
 
 import java.util.ArrayList;
 import java.util.Arrays;

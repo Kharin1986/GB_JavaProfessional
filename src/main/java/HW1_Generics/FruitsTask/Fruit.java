@@ -1,4 +1,4 @@
-package HW1.FruitsTask;
+package HW1_Generics.FruitsTask;
 
 public interface Fruit {
      float getWeight();

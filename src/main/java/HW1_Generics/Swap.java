@@ -1,4 +1,4 @@
-package HW1;
+package HW1_Generics;
 //Написать метод, который меняет два элемента массива местами (массив может быть любого ссылочного типа);
 public class Swap {
     public static <T> void  swapElements(T []array, int index1, int index2){
